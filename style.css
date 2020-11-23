@@ -1,0 +1,196 @@
+body {
+  margin: 0;
+}
+
+/* ヘッダー */
+
+header {
+  background-color: rgb(233, 232, 201);
+}
+
+/* ホスティングの流れ */
+
+.hosting ul img {
+  width: 200px;
+  height: 140px;
+  border-radius: 5px;
+  
+}
+
+.hosting h1 {
+  font-size: 32px;
+  
+}
+
+.hosting h2 {
+  font-size: 18px;
+  width: 90%;
+}
+
+.hosting ul {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-bottom: 70px;
+
+}
+
+.hosting p {
+  width: 80%;
+  font-size: 12px;
+}
+
+.hosting li a {
+  font-size: 11px;
+}
+
+.btn {
+  text-decoration: none;
+  text-align: center;
+  background: rgb(197, 33, 110);
+  color: #ffffff;
+  display: block;
+  width: 120px;
+  line-height: 44px;
+  margin: 40px auto 48px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+/* ホストコミュニティ */
+
+.community ul img {
+  width: 240px;
+  height: 320px;
+}
+
+.community ul {
+  margin: 0 auto;
+  display: flex;
+  /* justify-content: space-between; */
+  list-style: none;
+}
+
+.community h2 {
+  font-size: 18px;
+}
+
+.community p {
+  font-size: 14px;
+}
+
+.community a {
+  font-size: 12px;
+}
+
+.community {
+  margin-bottom: 80px;
+}
+
+.community h1 {
+  width: 260px;
+  font-size: 36px;
+}
+
+.community #hostcommunity {
+  font-size: 14px;
+  width: 220px;
+}
+
+.community .list1 {
+margin-right: 60px;
+}
+
+.community img {
+  border-radius: 10px;
+}
+
+/* .container {
+  margin: 0 auto;
+  padding: 40px;
+  width: 80%;
+  color: #333;
+  background: #419be0;
+}
+
+.slick-slide {
+  text-align: center;
+  color: #419be0;
+  background: white;
+} */
+
+/* 安全を最優先に */
+
+.safe ul {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-bottom: 100px;
+
+}
+
+.safe h1 {
+  font-size: 32px;
+}
+
+.safe h2 {
+  font-size: 20px;
+  width: 87%;
+}
+
+.safe p {
+  font-size: 14px;
+  width: 87%;
+}
+
+.safe a {
+  font-size: 12px;
+  width: 87%;
+}
+
+/* サポート */
+
+.saport ul {
+  margin: 0 auto;
+  display: flex;
+  /* justify-content: space-between; */
+  list-style: none;
+}
+
+.saport h1 {
+  font-size: 32px;
+
+}
+
+.saport h3 {
+  font-size: 14px;
+}
+
+.saport p {
+  font-size: 14px;
+  width: 60%;
+}
+
+
+
+/* 準備はできましたか */
+
+.practice ul {
+  margin: 0 auto;
+  display: flex;
+  /* justify-content: space-between; */
+  list-style: none;
+}
+
+.practice ul p {
+  width: 280px;
+}
+
+.practice ul h1 {
+  width: 380px;
+  font-size: 32px;
+}
+
